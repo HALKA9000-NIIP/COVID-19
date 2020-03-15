@@ -1,5 +1,9 @@
-# 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
+# Fork of 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
 
+This repository adds a Python Jupyter notebook to import the data into Pandas and plot the data. The notebook was originally authored by Leon Avery:
+http://www.math.uwaterloo.ca/~lavery/Covid-19/
+
+## Original Description of the Data Repository
 
 This is the data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
 
